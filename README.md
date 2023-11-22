@@ -82,3 +82,25 @@ If you try something weird (like telling the computer to do something it doesn't
 So, it's like playing with a stack of books, but the books are numbers, and the computer helps you do things with them.
 
 ### ***Output Screenshot*** :
+
+Code:
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/code2.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/code3.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/code4.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/code5.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/code6.png
+
+Output:
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/output1.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/output2.png
+
+https://github.com/anikethmehta/LAB13-stack/blob/main/output3.png
